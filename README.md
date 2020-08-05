@@ -1,10 +1,11 @@
 # FileIOArrayLists
 This is an example of how to use FileIO and ArrayLists in Java
 
-Consists of Files
+### File io example:
 - Box.java
 - BoxDriver.java
 
+### ArrayLists example:
 - Clown.java
 - Parade.java
 - ParadeManager.java
