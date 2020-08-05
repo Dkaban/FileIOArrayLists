@@ -1,8 +1,7 @@
 //***********************************************************
 //  Box.java
 //
-//  Dustin Kaban T00663749
-//  COMP 1231 Module 4 Assignment 4 Question 2
+//  Dustin Kaban
 //  July 31st, 2020
 //
 //  This generic class is used for creating a box.  The box contains
