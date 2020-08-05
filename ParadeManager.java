@@ -1,8 +1,7 @@
 //***********************************************************
 //  ParadeManager.java
 //
-//  Dustin Kaban T00663749
-//  COMP 1231 Module 4 Assignment 4 Question 1
+//  Dustin Kaban
 //  July 29th, 2020
 //
 //  This class creates an instance of Parade and populates the ArrayList
